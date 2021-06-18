@@ -196,6 +196,8 @@ Table of Contents
 
 * [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
+* [FlashDrive.io](https://flashdrive.io) - Deploy any code directly from Git with lot of supported languages out of the box and Docker support. $100 free credits for everyone + $1000 free credits per year with student program (ask support@flashdrive.io)
+
 
 ## Email
 
