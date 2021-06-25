@@ -183,6 +183,8 @@ Table of Contents
 
 * [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
+* [LoginRadius](https://accounts.loginradius.com/auth.aspx?action=register)[FREE] - Authentication and SSO APIs for your web and mobile applications. Free 7,000 Monthly Active Users.
+
 
 ## PaaS
 
